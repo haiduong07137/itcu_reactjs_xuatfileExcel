@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 11.0.9
+Implementation-Title: ictu-edu-app
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.globits
+Implementation-URL: https://maven.apache.org
+Main-Class: com.globits.ICTUEDUApplication
+Created-By: Maven Integration for Eclipse
+
